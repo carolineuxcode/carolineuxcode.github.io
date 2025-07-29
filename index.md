@@ -7,4 +7,4 @@ title: Início
 
 UX Designer e Desenvolvedora. Veja meus projetos abaixo!
 
-[Veja mais →](/projetos)
+[Veja mais →](/sobre)
